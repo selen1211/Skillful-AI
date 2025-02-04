@@ -436,7 +436,7 @@
                         }),
                       }),
                       (0, i.jsx)(l.r, {
-                        href: "https://t.me/+oNknk6vJj-0wODgx",
+                        href: "https://t.me/skillfulai_erc+oNknk6vJj-0wODgx",
                         isExternal: !0,
                         children: (0, i.jsx)(o.x, {
                           fontFamily: "body",

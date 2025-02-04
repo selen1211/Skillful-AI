@@ -104,7 +104,7 @@
                 : S.OK.scrollTo(e, { duration: 500, smooth: !0 });
             },
             U = () => {
-              window.open("https://app.skillfulai.io/", "_blank");
+              window.open("https://app.skillfulai.live/", "_blank");
             };
           return (0, a.jsxs)(c.xu, {
             children: [

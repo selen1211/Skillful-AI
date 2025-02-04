@@ -799,7 +799,7 @@
                       backgroundColor: "transparent",
                       position: "relative",
                       onClick: () => {
-                        window.open("https://app.skillfulai.io/", "_blank");
+                        window.open("https://app.skillfulai.live/", "_blank");
                       },
                       children: [
                         
@@ -4325,7 +4325,7 @@
                         backgroundColor: "transparent",
                         position: "relative",
                         onClick: () => {
-                          window.open("https://app.skillfulai.io/", "_blank");
+                          window.open("https://app.skillfulai.live/", "_blank");
                         },
                         _hover: { bg: "transparent" },
                         children: [

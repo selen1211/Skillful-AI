@@ -465,7 +465,7 @@
                           }),
 
                       (0, n.jsx)(s.r, {
-                        href: "https://t.me/",
+                        href: "https://t.me/skillfulai_erc",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
@@ -478,7 +478,7 @@
                       
                       
                       (0, n.jsx)(s.r, {
-                        href: "https://x.com/",
+                        href: "https://x.com/skillfulai_erc/",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
