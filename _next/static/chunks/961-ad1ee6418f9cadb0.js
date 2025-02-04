@@ -489,7 +489,7 @@
                         }),
                       }),
                       (0, n.jsx)(s.r, {
-                        href: "https://skillful-ai.gitbook.io/skillful-ai-public-docs",
+                        href: "https://docs.envoyagent.xyz/",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
