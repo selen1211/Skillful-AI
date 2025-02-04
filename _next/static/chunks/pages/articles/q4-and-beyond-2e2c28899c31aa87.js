@@ -326,7 +326,7 @@
                         }),
                       }),
                       (0, n.jsx)(a.r, {
-                        href: "https://docs.envoyagent.xyz/",
+                        href: "https://docs.skillfulai.live/",
                         isExternal: !0,
                         children: (0, n.jsx)(l.x, {
                           fontFamily: "body",
